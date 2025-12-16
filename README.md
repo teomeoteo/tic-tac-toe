@@ -4,8 +4,14 @@ This is a console-based implementation of the classic game Tic Tac Toe, built us
 
 ## 🌟 Features
 
+<<<<<<< HEAD
 * Two main game modes: Player vs. Player (PvP) and Player vs. Computer (PvCPU).
 * The computer opponent uses random move selection.
+=======
+## Gameplay Tutorial
+Choose the number corresponding with the field you want to input your \
+symbol into ('X' or 'O')
+>>>>>>> 95a3466039f101570a72f60988345e92b24c1992
 
 ## 🚀 Setup and Execution
 
