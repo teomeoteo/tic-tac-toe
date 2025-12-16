@@ -8,7 +8,7 @@ The computer makes random moves \
 
 ## Gameplay Tutorial
 Choose the number corresponding with the field you want to input your \
-symbol into ('X' or 'O') \
+symbol into ('X' or 'O')
 
 1 | 2 | 3 \
 --*---*--* \
