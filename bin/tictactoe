@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require '/Users/theoeliott/Ruby/projects/TicTacToe/lib/main'
+
+choose_mode
