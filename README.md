@@ -53,9 +53,9 @@ To select a move, choose the number corresponding to the field you want to place
 ### Board Layout
 The board is referenced by numbers `1` through `9` for easy selection:
 
-1 | 2 | 3 /
+1 | 2 | 3
 
-4 | 5 | 6 /
+4 | 5 | 6
 
 7 | 8 | 9
 
